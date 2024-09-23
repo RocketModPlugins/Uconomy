@@ -1,0 +1,6 @@
+C:\Users\alexi\source\repos\UconomyNUEVO\obj\Debug\Uconomy.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\UconomyNUEVO\obj\Debug\Uconomy.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\UconomyNUEVO\bin\Debug\Uconomy.dll
+C:\Users\alexi\source\repos\UconomyNUEVO\bin\Debug\Uconomy.pdb
+C:\Users\alexi\source\repos\UconomyNUEVO\obj\Debug\Uconomy.dll
+C:\Users\alexi\source\repos\UconomyNUEVO\obj\Debug\Uconomy.pdb

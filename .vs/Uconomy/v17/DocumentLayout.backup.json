@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\uconomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|solutionrelative:uconomy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|c:\\users\\alexi\\source\\repos\\uconomynuevo\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|c:\\users\\alexi\\source\\repos\\uconomynuevo\\commandbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|solutionrelative:commandbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|c:\\users\\alexi\\source\\repos\\uconomynuevo\\uconomyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|solutionrelative:uconomyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\commandpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602882B6-F16C-4247-9F5D-21846BC4C09A}|Uconomy.csproj|solutionrelative:commandpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:57:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandBalance.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\CommandBalance.cs",
+              "RelativeDocumentMoniker": "CommandBalance.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\CommandBalance.cs",
+              "RelativeToolTip": "CommandBalance.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:57:17.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UconomyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\UconomyConfiguration.cs",
+              "RelativeDocumentMoniker": "UconomyConfiguration.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\UconomyConfiguration.cs",
+              "RelativeToolTip": "UconomyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:54:49.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandPay.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\CommandPay.cs",
+              "RelativeDocumentMoniker": "CommandPay.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\CommandPay.cs",
+              "RelativeToolTip": "CommandPay.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:50:57.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Uconomy.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\Uconomy.cs",
+              "RelativeDocumentMoniker": "Uconomy.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\UconomyNUEVO\\Uconomy.cs",
+              "RelativeToolTip": "Uconomy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:47:34.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

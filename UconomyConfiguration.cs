@@ -4,13 +4,12 @@ namespace fr34kyn01535.Uconomy
 {
     public class UconomyConfiguration : IRocketPluginConfiguration
     {
-        public string DatabaseAddress;
-        public string DatabaseUsername;
-        public string DatabasePassword;
-        public string DatabaseName;
-        public string DatabaseTableName;
-        public int DatabasePort;
-
+        public string Image { get; set; }
+        public decimal RewardToKillPlayer { get; set; }
+        public decimal RewardToKillZombie { get; set; }
+        public decimal RewardToKillMegaZombie { get; set; }
+        public decimal RewardToKillAnimal { get; set; }
+        public decimal RewardToFish { get; set; }
         public decimal InitialBalance;
         public string MoneySymbol;
         public string MoneyName;
@@ -19,12 +18,12 @@ namespace fr34kyn01535.Uconomy
 
         public void LoadDefaults()
         {
-            DatabaseAddress = "127.0.0.1";
-            DatabaseUsername = "unturned";
-            DatabasePassword = "password";
-            DatabaseName = "unturned";
-            DatabaseTableName = "uconomy";
-            DatabasePort = 3306;
+            Image = "Url Here";
+            RewardToKillPlayer = 60;
+            RewardToKillZombie = 15;
+            RewardToKillAnimal = 100;
+            RewardToKillMegaZombie = 500;
+            RewardToFish = 30;
             InitialBalance = 30;
             MoneySymbol = "$";
             MoneyName = "Credits";
