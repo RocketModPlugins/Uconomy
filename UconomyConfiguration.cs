@@ -4,6 +4,7 @@ namespace fr34kyn01535.Uconomy
 {
     public class UconomyConfiguration : IRocketPluginConfiguration
     {
+        public string Image { get; set; }
         public string DatabaseAddress;
         public string DatabaseUsername;
         public string DatabasePassword;
@@ -19,6 +20,7 @@ namespace fr34kyn01535.Uconomy
 
         public void LoadDefaults()
         {
+            Image = "Url Here";
             DatabaseAddress = "127.0.0.1";
             DatabaseUsername = "unturned";
             DatabasePassword = "password";
